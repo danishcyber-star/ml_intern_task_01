@@ -4,8 +4,8 @@ from typing import List
 #Declaring variables for setup functions
 PROJECT_NAME="housing-predictor"
 VERSION="0.0.3"
-AUTHOR="Nomaan Ansari"
-DESRCIPTION="This is my first end-to-end Machine Learning Project"
+AUTHOR="Danish Alam"
+DESRCIPTION="This is my latest Machine Learning Project"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
